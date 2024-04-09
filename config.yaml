@@ -123,11 +123,11 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
-    title: "Isabella."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-    image: /images/mike.jpg
+    intro: "Bonjour, je suis"
+    title: "Axel"
+    subtitle: "J'aime bien l'informatique"
+    content: "Je bidouille ce qui touche de près ou de loin l'informatique. Un passe temps qui prend plus de temps que prévu"
+    image: /images/moi.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -140,18 +140,13 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-x-twitter
-          url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+          url: https://github.com/fauwzk
 
   # About
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "/images/moi.jpg"
     content: |-
       I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
 
