@@ -115,7 +115,7 @@ params:
     menus:
       disableAbout: false
       disableExperience: false
-      disableEducation: false
+      disableEducation: true
       disableProjects: true
       disableAchievements: true
       disableContact: true
