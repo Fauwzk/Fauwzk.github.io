@@ -1,5 +1,5 @@
 ---
-title: "Stage de première année"
+title: "Stage de deuxième année"
 date: 2024-04-11T22:41:10+05:30
 draft: false
 author: "Axel POLENTES"

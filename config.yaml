@@ -150,7 +150,7 @@ params:
     content: |-
       Actuellement en BTS SIO, je suis passionné depuis longtemps d'informatqiue. 
     skills:
-      enable: true
+      enable: False
       title: "Here are a few technologies I've been working with recently:"
       items:
         - "HTML"
@@ -180,10 +180,10 @@ params:
         companyUrl: "https://example.com"
         date: "Sep 2020 - Dec 2021"
         featuredLink:
-          enable: true
+          enable: false
           url: "https://example.com"
         info:
-          enable: true
+          enable: false
           content: I worked as a software developer for more than one year in Amazon.
         content: |
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
@@ -234,7 +234,7 @@ params:
       - title: "BTS Service Informatique au Organisations"
         school:
           name: "Lycée Édmé Bouchardon, Chaumont"
-          url: "https://example.org"
+          url: "https://lyc-bouchardon.monbureaunumerique.fr/"
         date: "2023 - Maintenant"
         content: |-
           Extracurricular Activities
@@ -243,9 +243,8 @@ params:
       - title: "Baccalauréat Technologique (STI2D Option EE)"
         school:
           name: "Lycée Phlippe Lebon, Joinville"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
+          url: "https://www.lycee-philippe-lebon.fr/"
+        date: "2019 - 2023"
         content: |-
           I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
           - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
@@ -255,16 +254,8 @@ params:
             - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
             - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
         featuredLink:
-          enable: true
+          enable: false
           name: "My academic record"
-          url: "https://example.com"
-      - title: "High School"
-        school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
           url: "https://example.com"
 
   # Achievements
@@ -380,16 +371,16 @@ params:
 
   # For translations
   terms:
-    read: "Read"
-    toc: "Table Of Contents"
-    copyright: "All rights reserved"
-    pageNotFound: "Page not found"
+    read: "Lu"
+    toc: "Table du contenu"
+    copyright: "Tous droits réservés"
+    pageNotFound: "Page non trouvée"
     emailText: "Check out this site"
 
   datesFormat:
-    article: "Jan 2, 2006"
-    articleList: "Jan 2, 2006"
-    articleRecent: "Jan 2, 2006"
+    article: "2 Jan 2006"
+    articleList: "2 Jan 2006"
+    articleRecent: "2 Jan 2006"
 
   #customScripts: -| # You can add custom scripts which will be added before </body> tag
   #  <script type="text/javascript"><!-- any script here --></script>
