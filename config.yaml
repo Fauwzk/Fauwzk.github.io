@@ -126,14 +126,14 @@ params:
     intro: "Bonjour, je suis"
     title: "Axel"
     subtitle: "Etudiant en BTS SIO"
-    content: "Je bidouille ce qui touche de près ou de loin l'informatique. Un passe temps qui prend plus de temps que prévu"
+    content: "Je bidouille ce qui touche de près ou de loin l'informatique. Un passe temps qui prend plus de temps que prévu."
     image: /images/moi.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
-      name: "Resume"
+      name: "Mon CV"
       url: "cv.pdf"
       download: false
       newPage: true
