@@ -134,7 +134,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "/cv/cv.pdf"
+      url: "/files/cv/cv.pdf"
       download: false
       newPage: true
     socialLinks:

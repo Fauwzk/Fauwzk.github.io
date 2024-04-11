@@ -1,9 +1,8 @@
 ---
-title: "Placeholder Text"
-date: 2021-04-03T22:41:10+05:30
+title: "Stage de première année"
+date: 2024-04-11T22:41:10+05:30
 draft: false
-github_link: "https://github.com/gurusabarish/hugo-profile"
-author: "Gurusabarish"
+author: "Axel POLENTES"
 tags:
   - Placeholder text
   - Sample
