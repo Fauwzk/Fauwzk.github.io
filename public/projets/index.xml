@@ -20,7 +20,7 @@
       <link>http://localhost:1313/projets/projets_2eme_annee/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
       <guid>http://localhost:1313/projets/projets_2eme_annee/</guid>
-      <description>Il y a eu differents projets en deuxième année :&#xA;La création d&amp;rsquo;un site de gestion d&amp;rsquo;un club de sport fictif avec: Utilisation de HTML/CSS coté client pour créer l&amp;rsquo;interface PHP (et phpmyadmin) coté serveur pour la communication web &amp;lt;-&amp;gt; bdd MySQL en tant que base de données La création de differentes applications de gestion de la M2L : Utilisation de Visual Studio comme IDE Utilisation de WPF avec C# et XAML Création d&amp;rsquo;un réseau d&amp;rsquo;entreprise type : Windows Server comme AD-DNS Installation d&amp;rsquo;un server DHCP Installation d&amp;rsquo;un serveur WDS pour du déploiment de machine Utilisation de linux (Lubuntu) </description>
+      <description>Il y a eu differents projets en deuxième année :&#xA;La création d&amp;rsquo;un réseau d&amp;rsquo;entreprise (CUB) divisé en batiments virtuels Installation d&amp;rsquo;un pfSense par batiments Installation de differents serveurs (Linux, Windows) et clients Division du réseau en differents VLANs Installation d&amp;rsquo;un service de supervision (Zabbix) pour créer des alertes en cas de problème logiciel et/ou materiel Installation de materiel : Nas Asustor Switch Dell et Cisco Reconfiguration d&amp;rsquo;un Rack Serveur/Réseau </description>
     </item>
   </channel>
 </rss>
