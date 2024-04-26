@@ -21,6 +21,7 @@ Il y a eu differents projets en première année :
     - Utilisation de Visual Studio comme IDE
     - Utilisation de WPF avec C# et XAML
   - Création d'un réseau d'entreprise type :
-    - Windows Server comme AD-DNS et server DHCP
-    - Installation d'un server WDS pour du déploiment de machine
-  - 
+    - Windows Server comme AD-DNS
+    - Installation d'un server DHCP
+    - Installation d'un serveur WDS pour du déploiment de machine
+  - Utilisation de linux (Lubuntu)
