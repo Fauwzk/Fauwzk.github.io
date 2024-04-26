@@ -9,18 +9,11 @@
     <lastBuildDate>Thu, 11 Apr 2024 22:41:10 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Stage de deuxième année</title>
-      <link>http://localhost:1313/stages/stage-2eme-annee/</link>
-      <pubDate>Thu, 11 Apr 2024 22:41:10 +0530</pubDate>
-      <guid>http://localhost:1313/stages/stage-2eme-annee/</guid>
-      <description>Lorem est tota propiore conpellat pectoribus de pectora summo.&#xA;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&#xA;Exierant elisi ambit vivere dedere Duce pollice Eris modo Spargitque ferrea quos palude Rursus nulli murmur; hastile inridet ut ab gravi sententia!</description>
-    </item>
-    <item>
       <title>Stage de première année</title>
-      <link>http://localhost:1313/stages/stage-1ere-annee/</link>
+      <link>http://localhost:1313/stages/stage_1ere_annee/</link>
       <pubDate>Thu, 11 Apr 2024 22:41:10 +0530</pubDate>
-      <guid>http://localhost:1313/stages/stage-1ere-annee/</guid>
-      <description>Lorem est tota propiore conpellat pectoribus de pectora summo.&#xA;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&#xA;Exierant elisi ambit vivere dedere Duce pollice Eris modo Spargitque ferrea quos palude Rursus nulli murmur; hastile inridet ut ab gravi sententia!</description>
+      <guid>http://localhost:1313/stages/stage_1ere_annee/</guid>
+      <description>Durant mon stage de première année, j&amp;rsquo;ai travaillé sur differents projets :&#xA;Mise a jour d&amp;rsquo;une supervision pour l&amp;rsquo;installer sur une nouvelle version de l&amp;rsquo;outil Creation d&amp;rsquo;un logigramme pour faciliter la mise a jour Creation de la procédure de test de la nouvelle supervision En premier temps en simulation puis en réel Migration de la configuration de switch cisco (IE-3000 vers IE-3300) Configuration des services SNMP sur differents serveur pour récuperer informations disques (Raid et état disques) et alimentations Mise en place et test des postes clients </description>
     </item>
     <item>
       <title>Image Gallery</title>
@@ -30,18 +23,25 @@
       <description></description>
     </item>
     <item>
-      <title>Projets 1ère Année</title>
+      <title>Projets 1ère année</title>
       <link>http://localhost:1313/projets/projets_1ere_annee/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
       <guid>http://localhost:1313/projets/projets_1ere_annee/</guid>
       <description>Il y a eu differents projets en première année :&#xA;La création d&amp;rsquo;un site de gestion d&amp;rsquo;un club de sport fictif avec: Utilisation de HTML/CSS coté client pour créer l&amp;rsquo;interface PHP (et phpmyadmin) coté serveur pour la communication web &amp;lt;-&amp;gt; bdd MySQL en tant que base de données La création de differentes applications de gestion de la M2L : Utilisation de Visual Studio comme IDE Utilisation de WPF avec C# et XAML Création d&amp;rsquo;un réseau d&amp;rsquo;entreprise type : Windows Server comme AD-DNS Installation d&amp;rsquo;un server DHCP Installation d&amp;rsquo;un serveur WDS pour du déploiment de machine Utilisation de linux (Lubuntu) </description>
     </item>
     <item>
-      <title>Projets 2ème Année</title>
+      <title>Projets 2ème année</title>
       <link>http://localhost:1313/projets/projets_2eme_annee/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
       <guid>http://localhost:1313/projets/projets_2eme_annee/</guid>
       <description>Il y a eu differents projets en deuxième année :&#xA;La création d&amp;rsquo;un réseau d&amp;rsquo;entreprise (CUB) divisé en batiments virtuels Installation d&amp;rsquo;un pfSense par batiments Installation de differents serveurs (Linux, Windows) et clients Division du réseau en differents VLANs Installation d&amp;rsquo;un service de supervision (Zabbix) pour créer des alertes en cas de problème logiciel et/ou materiel Installation de materiel : Nas Asustor Switch Dell et Cisco Reconfiguration d&amp;rsquo;un Rack Serveur/Réseau </description>
+    </item>
+    <item>
+      <title>Stage de deuxième année</title>
+      <link>http://localhost:1313/stages/stage_2eme_annee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/stages/stage_2eme_annee/</guid>
+      <description>Durant mon stage de deuxième année, j&amp;rsquo;ai travaillé sur differents projets :&#xA;Ajout d&amp;rsquo;une partie incendie sur une supervision Supervision de la migration serveur Réinstallation des differentes imprimantes dans les differents services de l&amp;rsquo;entreprise Reconfiguration des lumières connectées Installations de postes dans le bureau d&amp;rsquo;études/salle &amp;ldquo;laboratoire&amp;rdquo; </description>
     </item>
   </channel>
 </rss>

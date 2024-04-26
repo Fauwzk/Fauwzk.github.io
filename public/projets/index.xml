@@ -9,14 +9,14 @@
     <lastBuildDate>Sat, 03 Apr 2021 22:41:10 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/projets/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Projets 1ère Année</title>
+      <title>Projets 1ère année</title>
       <link>http://localhost:1313/projets/projets_1ere_annee/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
       <guid>http://localhost:1313/projets/projets_1ere_annee/</guid>
       <description>Il y a eu differents projets en première année :&#xA;La création d&amp;rsquo;un site de gestion d&amp;rsquo;un club de sport fictif avec: Utilisation de HTML/CSS coté client pour créer l&amp;rsquo;interface PHP (et phpmyadmin) coté serveur pour la communication web &amp;lt;-&amp;gt; bdd MySQL en tant que base de données La création de differentes applications de gestion de la M2L : Utilisation de Visual Studio comme IDE Utilisation de WPF avec C# et XAML Création d&amp;rsquo;un réseau d&amp;rsquo;entreprise type : Windows Server comme AD-DNS Installation d&amp;rsquo;un server DHCP Installation d&amp;rsquo;un serveur WDS pour du déploiment de machine Utilisation de linux (Lubuntu) </description>
     </item>
     <item>
-      <title>Projets 2ème Année</title>
+      <title>Projets 2ème année</title>
       <link>http://localhost:1313/projets/projets_2eme_annee/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
       <guid>http://localhost:1313/projets/projets_2eme_annee/</guid>

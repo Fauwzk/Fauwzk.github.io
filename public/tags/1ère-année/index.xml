@@ -6,10 +6,17 @@
     <description>Recent content in 1ère Année on Hugo Profile</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 03 Apr 2021 22:41:10 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 22:41:10 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/1%C3%A8re-ann%C3%A9e/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Projets 1ère Année</title>
+      <title>Stage de première année</title>
+      <link>http://localhost:1313/stages/stage_1ere_annee/</link>
+      <pubDate>Thu, 11 Apr 2024 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/stages/stage_1ere_annee/</guid>
+      <description>Durant mon stage de première année, j&amp;rsquo;ai travaillé sur differents projets :&#xA;Mise a jour d&amp;rsquo;une supervision pour l&amp;rsquo;installer sur une nouvelle version de l&amp;rsquo;outil Creation d&amp;rsquo;un logigramme pour faciliter la mise a jour Creation de la procédure de test de la nouvelle supervision En premier temps en simulation puis en réel Migration de la configuration de switch cisco (IE-3000 vers IE-3300) Configuration des services SNMP sur differents serveur pour récuperer informations disques (Raid et état disques) et alimentations Mise en place et test des postes clients </description>
+    </item>
+    <item>
+      <title>Projets 1ère année</title>
       <link>http://localhost:1313/projets/projets_1ere_annee/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
       <guid>http://localhost:1313/projets/projets_1ere_annee/</guid>

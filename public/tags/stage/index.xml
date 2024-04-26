@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Stages on Hugo Profile</title>
-    <link>http://localhost:1313/stages/</link>
-    <description>Recent content in Stages on Hugo Profile</description>
+    <title>Stage on Hugo Profile</title>
+    <link>http://localhost:1313/tags/stage/</link>
+    <description>Recent content in Stage on Hugo Profile</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Thu, 11 Apr 2024 22:41:10 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/stages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/stage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stage de première année</title>
       <link>http://localhost:1313/stages/stage_1ere_annee/</link>

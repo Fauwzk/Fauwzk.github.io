@@ -1,5 +1,5 @@
 ---
-title: "Projets 1ère Année"
+title: "Projets 1ère année"
 date: 2021-04-03T22:41:10+05:30
 draft: false
 author: "Axel Polentes"

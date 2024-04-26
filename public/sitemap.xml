@@ -2,22 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/example/</loc>
+    <loc>http://localhost:1313/tags/1%C3%A8re-ann%C3%A9e/</loc>
     <lastmod>2024-04-11T22:41:10+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-04-11T22:41:10+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/placeholder-text/</loc>
+    <loc>http://localhost:1313/tags/stage/</loc>
     <lastmod>2024-04-11T22:41:10+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sample/</loc>
-    <lastmod>2024-04-11T22:41:10+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/stages/stage-2eme-annee/</loc>
-    <lastmod>2024-04-11T22:41:10+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/stages/stage-1ere-annee/</loc>
+    <loc>http://localhost:1313/stages/stage_1ere_annee/</loc>
     <lastmod>2024-04-11T22:41:10+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/stages/</loc>
@@ -28,9 +22,6 @@
   </url><url>
     <loc>http://localhost:1313/gallery/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/1%C3%A8re-ann%C3%A9e/</loc>
-    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/2%C3%A8me-ann%C3%A9e/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
@@ -51,5 +42,13 @@
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/example/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/placeholder-text/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/sample/</loc>
+  </url><url>
+    <loc>http://localhost:1313/stages/stage_2eme_annee/</loc>
   </url>
 </urlset>
