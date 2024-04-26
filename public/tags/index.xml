@@ -1,39 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hugo Profile</title>
+    <title>Tags on Portfolio</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Hugo Profile</description>
+    <description>Recent content in Tags on Portfolio</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Thu, 11 Apr 2024 22:41:10 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Example</title>
-      <link>http://localhost:1313/tags/example/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/example/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Placeholder Text</title>
-      <link>http://localhost:1313/tags/placeholder-text/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/placeholder-text/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sample</title>
-      <link>http://localhost:1313/tags/sample/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sample/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>1ère Année</title>
       <link>http://localhost:1313/tags/1%C3%A8re-ann%C3%A9e/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/1%C3%A8re-ann%C3%A9e/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stage</title>
+      <link>http://localhost:1313/tags/stage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/stage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2ème Année</title>
+      <link>http://localhost:1313/tags/2%C3%A8me-ann%C3%A9e/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/2%C3%A8me-ann%C3%A9e/</guid>
       <description></description>
     </item>
     <item>

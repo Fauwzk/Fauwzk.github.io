@@ -43,12 +43,6 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/example/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/placeholder-text/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/sample/</loc>
-  </url><url>
     <loc>http://localhost:1313/stages/stage_2eme_annee/</loc>
   </url>
 </urlset>
