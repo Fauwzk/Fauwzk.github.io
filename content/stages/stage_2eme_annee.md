@@ -1,6 +1,6 @@
 ---
 title: "Stage de deuxième année"
-date: 2024-04-1T22:41:10+05:30
+date: 2024-04-11T22:41:10+05:30
 draft: false
 author: "Axel POLENTES"
 tags:
