@@ -19,3 +19,5 @@ Durant mon stage de première année, j'ai travaillé sur differents projets :
   - Migration de la configuration de switch cisco (IE-3000 vers IE-3300)
   - Configuration des services SNMP sur differents serveur pour récuperer informations disques (Raid et état disques) et alimentations
   - Mise en place et test des postes clients
+
+![Attestation de stage](/images/Stage_2023.png)

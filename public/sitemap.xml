@@ -32,6 +32,9 @@
     <loc>http://localhost:1313/tags/bts/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/cours/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/projets/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
@@ -42,6 +45,9 @@
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/projets/projets_2eme_annee/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projets/synth%C3%A8se/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>

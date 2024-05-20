@@ -22,5 +22,12 @@
       <guid>http://localhost:1313/projets/projets_2eme_annee/</guid>
       <description>Il y a eu differents projets en deuxième année :&#xA;La création d&amp;rsquo;un réseau d&amp;rsquo;entreprise (CUB) divisé en batiments virtuels Installation d&amp;rsquo;un pfSense par batiments Installation de differents serveurs (Linux, Windows) et clients Division du réseau en differents VLANs Installation d&amp;rsquo;un service de supervision (Zabbix) pour créer des alertes en cas de problème logiciel et/ou materiel Installation de materiel : Nas Asustor Switch Dell et Cisco Reconfiguration d&amp;rsquo;un Rack Serveur/Réseau </description>
     </item>
+    <item>
+      <title>Synthèse E4</title>
+      <link>http://localhost:1313/projets/synth%C3%A8se/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/projets/synth%C3%A8se/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
