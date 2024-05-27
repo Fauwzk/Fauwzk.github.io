@@ -131,7 +131,7 @@ params:
     image: /images/moi.jpg
     bottomImage:
       enable: true
-    # roundImage: true # Make hero image circular | default false
+    roundImage: true # Make hero image circular | default false
     button:
       enable: true
       name: "Mon CV"
@@ -142,6 +142,8 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://github.com/fauwzk
+        - icon: fa-solid fa-file
+          url: https://exemple.com
 
   education:
     enable: true

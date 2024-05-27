@@ -17,5 +17,5 @@ Durant mon stage de deuxième année, j'ai travaillé sur differents projets :
     - Réinstallation des differentes imprimantes dans les differents services de l'entreprise
   - Reconfiguration des lumières connectées
   - Installations de postes dans le bureau d'études/salle "laboratoire"
-  
+
 ![Attestation de stage](/images/Stage_2024.png)
