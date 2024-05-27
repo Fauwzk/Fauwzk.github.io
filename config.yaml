@@ -143,7 +143,7 @@ params:
         - icon: fab fa-github
           url: https://github.com/fauwzk
         - icon: fa-solid fa-file
-          url: https://exemple.com
+          url: https://fauwzk.github.io/veille.pdf
 
   education:
     enable: true
