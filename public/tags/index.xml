@@ -4,7 +4,7 @@
     <title>Tags on Portfolio</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Portfolio</description>
-    <generator>Hugo 0.125.0</generator>
+    <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Thu, 11 Apr 2024 22:41:10 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -34,6 +34,13 @@
       <link>http://localhost:1313/tags/bts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/bts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cours</title>
+      <link>http://localhost:1313/tags/cours/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cours/</guid>
       <description></description>
     </item>
     <item>

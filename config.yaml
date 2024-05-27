@@ -143,6 +143,27 @@ params:
         - icon: fab fa-github
           url: https://github.com/fauwzk
 
+  education:
+    enable: true
+    # title: "Custom Name"
+    index: false
+    items:
+      - title: "BTS Service Informatique au Organisations"
+        school:
+          name: "Lycée Édmé Bouchardon, Chaumont"
+          url: "https://lyc-bouchardon.monbureaunumerique.fr/"
+        date: "2022 - Maintenant"
+      - title: "Baccalauréat Technologique (STI2D Option EE)"
+        school:
+          name: "Lycée Phlippe Lebon, Joinville"
+          url: "https://lyc-lebon.monbureaunumerique.fr/"
+        date: "2019 - 2022"
+      - title: "Collège"
+        school:
+          name: "Collège Joseph Cressot, Joinville"
+          url: "https://clg-cressot.monbureaunumerique.fr/"
+        date: "2015 - 2019"
+
   # About
   about:
     enable: false
